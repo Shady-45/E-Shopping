@@ -32,7 +32,7 @@ Welcome to the E-Commerce Website project! This project showcases the developmen
 
 ## Deployment
 
-The application is deployed using [Vercel](https://www.vercel.com/) and can be accessed at [Your Deployment Link](https://totalitycorp-frontend-challenge-tawny.vercel.app/).
+The application is deployed using [Vercel](https://www.vercel.com/) and can be accessed at [E-Commerce Website](https://totalitycorp-frontend-challenge-tawny.vercel.app/).
 
 ## Author
 
