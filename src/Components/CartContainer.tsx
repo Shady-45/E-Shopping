@@ -15,7 +15,7 @@ const CartContainer = () => {
     const {filteredItems,products} = useAppSelector(store => store.carts)
     const dispatch = useAppDispatch()
 const {addedToCart} = useAppSelector(store =>store.modal)  
-    console.log(filteredItems);
+    
   
   return (
     <>

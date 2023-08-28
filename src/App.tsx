@@ -7,6 +7,7 @@ import Navbar from './Components/Navbar';
 import {Routes,Route} from 'react-router-dom'
 import ShoppingCart from './Components/ShoppingCart';
 import Checkout from './Components/Checkout';
+import ClipLoader from "react-spinners/ClipLoader";
 import { useLocation } from 'react-router-dom';
 function App() {
   const location = useLocation()
@@ -22,9 +23,20 @@ function App() {
   },[selectedItems])
 
   if (isLoading){
-    return <h1>Loading...</h1>
+    return(
+      <div className='fixed inset-0 flex items-center justify-center z-10'>
+        <ClipLoader
+        color='red'
+        loading={isLoading}
+        
+        size={50}
+        aria-label="Loading Spinner"
+        data-testid="loader"
+      />
+      </div>
+    )
   }
-  console.log(cartItems);
+  
   const hideNav = location.pathname === '/checkout'
   return (
     <>
