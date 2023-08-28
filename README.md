@@ -4,14 +4,10 @@ Welcome to the E-Commerce Website project! This project showcases the developmen
 
 ## Features
 
-- **Product Listing:** Browse a wide variety of products with images, names, prices, and "Add to Cart" buttons. Use filters to sort products by category, price range, or ratings.
+- **Product Listing:** Browse a wide variety of products with images, names, prices, and "Add to Cart" buttons. Use filters to sort products by category, and price range
 - **Shopping Cart:** Add, remove, or adjust quantities of items in the cart. Real-time updates for cart total and item count.
 - **Checkout:** Enter shipping information and payment details for a seamless checkout experience.
 - **Responsive Design:** The website is designed to work smoothly on both desktop and mobile devices, with layouts optimized for different screen sizes.
-
-## Additional Features (Optional)
-
-- **User Authentication:** Users can register and log in, with personalized experiences including their name and avatar display.
 
 ## Tech Stack
 
@@ -36,16 +32,16 @@ Welcome to the E-Commerce Website project! This project showcases the developmen
 
 ## Deployment
 
-The application is deployed using [Netlify](https://www.netlify.com/) and can be accessed at [Your Deployment Link](https://your-deployment-link).
+The application is deployed using [Vercel](https://www.vercel.com/) and can be accessed at [Your Deployment Link](https://totalitycorp-frontend-challenge-tawny.vercel.app/).
 
 ## Author
 
-[Your Name]
-[Your Email]
+Chalat Rahul
+rahulchalat@gmail.com
 
 ## Acknowledgments
 
-This project was developed as part of the E-Commerce Website Challenge provided by [Challenge Provider's Name](https://challenge-provider-website).
+This project was developed as part of the E-Commerce Website Challenge provided by [Totality Corp](https://www.totalitycorp.com/).
 
 ## License
 
