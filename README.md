@@ -39,10 +39,6 @@ The application is deployed using [Vercel](https://www.vercel.com/) and can be a
 Chalat Rahul
 rahulchalat@gmail.com
 
-## Acknowledgments
-
-This project was developed as part of the E-Commerce Website Challenge provided by [Totality Corp](https://www.totalitycorp.com/).
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE)
